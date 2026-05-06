@@ -56,11 +56,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirav1813&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirav1813&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirav1813&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirav1813&layout=compact&theme=transparent&hide_border=true&langs_count=6)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nirav1813&theme=default&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nirav1813&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=nirav1813&theme=flat&no-frame=true&row=1&column=6)
 
 ---
 
