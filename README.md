@@ -1,72 +1,203 @@
-# Hi, I'm Nirav Rana 👋
+# Hi 👋, I'm Nirav Rana
 
-🐍 Python Developer | AI & Automation Builder
-📍 Ahmedabad, India
-📬 rananirav1402@email.com | [LinkedIn](https://www.linkedin.com/in/nirav-rana-29b389338/)
+### AI Engineer | Python Backend Developer | Building Production-Ready LLM Applications
 
-[![GitHub followers](https://img.shields.io/github/followers/nirav1813?label=Follow&style=social)](https://github.com/nirav1813)
+<p align="left">
+I'm passionate about building AI applications that solve real-world problems using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), FastAPI, LangChain, and modern Python technologies.
 
----
-
-## 🧑‍💻 About Me
-
-- 🤖 Building AI-powered tools with **Python & LLMs**
-- 🔭 Currently working on **StatBot-pro** — AI CSV data analyst
-- 🌱 Exploring **FastAPI, LangChain, and agent frameworks**
-- 💡 Passionate about turning data into actionable insights
-- 📍 Based in Ahmedabad, India | Open to remote opportunities
-- ⚡ Fun fact: I make AI do my marketing and data analysis for me
+Currently focused on developing intelligent AI systems, backend APIs, and production-ready machine learning solutions.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+🎓 MCA Graduate
 
-**AI & Data:**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+💻 AI & Python Backend Developer
 
-**Frameworks & Tools:**
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+🤖 Building LLM Applications using LangChain & OpenAI
 
----
+📚 Currently Learning
 
-## 🚀 Featured Projects
+- Hugging Face
+- PyTorch
+- TensorFlow
+- Advanced RAG
+- AI Agents
+- MCP
+- Vector Databases
 
-### 🤖 [StatBot-pro](https://github.com/nirav1813/StatBot-pro)
-> AI-powered CSV Data Analyst — ask questions about your data in plain English, get answers + charts instantly.
-> **Tech:** Python · OpenAI · Pandas · Plotly
+🎯 Career Goal
 
-### 📢 [ViralGen-Ai](https://github.com/nirav1813/ViralGen-Ai)
-> Creates complete marketing ads (text + image) from a simple user input using AI.
-> **Tech:** Python · AI · Image Generation
-
-### 📱 [Mobile Website](https://github.com/nirav1813/mobile-website)
-> Responsive mobile-first website design.
-> **Tech:** HTML · CSS · JavaScript
+Become an AI Engineer working on Production AI Systems and Machine Learning Infrastructure.
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirav1813&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+## AI & LLM
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirav1813&layout=compact&theme=transparent&hide_border=true&langs_count=6)
+- LangChain
+- OpenAI API
+- Groq
+- Prompt Engineering
+- RAG
+- FAISS
+- AI Agents
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nirav1813&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+## Machine Learning
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=nirav1813&theme=flat&no-frame=true&row=1&column=6)
+- Scikit-Learn
+- Pandas
+- NumPy
+- Model Evaluation
+- Precision@K
+- Recall@K
+
+## Backend
+
+- Python
+- FastAPI
+- Django
+- Flask
+- REST API
+- JSON
+
+## Database
+
+- MySQL
+- MongoDB
+
+## DevOps
+
+- Git
+- GitHub
+- Docker
+- Linux
+- Postman
 
 ---
 
-## 📫 Let's Connect
+# 🔥 Featured Projects
 
-Open to Python roles, AI projects, and freelance work.
-Reach me at **rananirav1402@email.com** or connect on LinkedIn!
+## 📄 RAG Document Question Answering System
+
+Production-ready Retrieval Augmented Generation application.
+
+### Features
+
+✔ PDF Upload
+
+✔ Intelligent Chunking
+
+✔ Vector Embeddings
+
+✔ FAISS Search
+
+✔ LLM Response Generation
+
+✔ Evaluation Metrics
+
+✔ FastAPI Backend
+
+✔ Streamlit UI
+
+Tech Stack
+
+Python • LangChain • FastAPI • FAISS • Groq • Scikit-Learn
+
+---
+
+## 🤖 StatBot Pro
+
+AI-powered statistics assistant built with LangChain Agents.
+
+Features
+
+- Natural Language Queries
+- AI Function Calling
+- Structured JSON Output
+- FastAPI Backend
+- Automation Workflows
+
+---
+
+## ✨ ViralGen AI
+
+AI Content Generation Platform.
+
+Features
+
+- Marketing Copy
+- Social Media Posts
+- Prompt Engineering
+- Multiple Templates
+- Tone Control
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nirav1813&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nirav1813&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirav1813&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nirav1813&theme=github-compact)]
+
+---
+
+# 🌱 Currently Exploring
+
+- Multi-Agent AI Systems
+- MCP (Model Context Protocol)
+- Hugging Face Transformers
+- Fine-Tuning LLMs
+- LangGraph
+- CrewAI
+- AI Evaluation Frameworks
+- Production RAG Pipelines
+
+---
+
+# 📫 Connect With Me
+
+📧 Email
+
+**rananirav1402@gmail.com**
+
+💼 LinkedIn
+
+https://linkedin.com/in/niravrana
+
+💻 GitHub
+
+https://github.com/nirav1813
+
+---
+
+# 💡 Quote
+
+> "Building AI that solves real-world problems, one model at a time."
+
+---
+
+⭐ If you like my projects, consider giving them a Star.
