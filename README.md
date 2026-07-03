@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+  <a href="mailto:rananirav1402@gmail.com"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/niravranaofficial/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1MsxtSJaQAx5WZI5vQfF8Y8oTyi2IoLUR/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 </p>
 
 ---
@@ -48,6 +48,10 @@ AI statistics assistant using LangChain Agents and function calling for structur
 **🔹 ViralGen AI**  
 AI content generation platform for marketing copy with dynamic tone control, built on FastAPI.
 
+<p align="center">
+  <a href="https://github.com/nirav1813"><img src="https://img.shields.io/badge/View_All_Projects_on_GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 ---
 
 ### 📌 Quick Facts
@@ -65,12 +69,12 @@ AI content generation platform for marketing copy with dynamic tone control, bui
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=niravrana&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=niravrana&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nirav1813&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nirav1813&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niravrana&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirav1813&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -80,10 +84,10 @@ AI content generation platform for marketing copy with dynamic tone control, bui
 I'm actively looking for **AI Engineer / ML Engineer / LLM Engineer** opportunities — especially at startups and growing teams. If you're hiring or just want to chat about AI systems, feel free to reach out!
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email_Me-333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/niravrana"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Download_Resume-000?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
+  <a href="mailto:rananirav1402@gmail.com"><img src="https://img.shields.io/badge/Email_Me-333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/niravranaofficial/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/nirav1813"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1MsxtSJaQAx5WZI5vQfF8Y8oTyi2IoLUR/view?usp=drivesdk"><img src="https://img.shields.io/badge/Download_Resume-000?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 </p>
 
 <p align="center"><sub>Thanks for visiting — let's build something great together! ⭐</sub></p>
