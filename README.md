@@ -1,203 +1,89 @@
-# Hi 👋, I'm Nirav Rana
-
-### AI Engineer | Python Backend Developer | Building Production-Ready LLM Applications
-
-<p align="left">
-I'm passionate about building AI applications that solve real-world problems using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), FastAPI, LangChain, and modern Python technologies.
-
-Currently focused on developing intelligent AI systems, backend APIs, and production-ready machine learning solutions.
-</p>
-
----
-
-## 🚀 About Me
-
-🎓 MCA Graduate
-
-💻 AI & Python Backend Developer
-
-🤖 Building LLM Applications using LangChain & OpenAI
-
-📚 Currently Learning
-
-- Hugging Face
-- PyTorch
-- TensorFlow
-- Advanced RAG
-- AI Agents
-- MCP
-- Vector Databases
-
-🎯 Career Goal
-
-Become an AI Engineer working on Production AI Systems and Machine Learning Infrastructure.
-
----
-
-# 🛠 Tech Stack
-
-## AI & LLM
-
-- LangChain
-- OpenAI API
-- Groq
-- Prompt Engineering
-- RAG
-- FAISS
-- AI Agents
-
-## Machine Learning
-
-- Scikit-Learn
-- Pandas
-- NumPy
-- Model Evaluation
-- Precision@K
-- Recall@K
-
-## Backend
-
-- Python
-- FastAPI
-- Django
-- Flask
-- REST API
-- JSON
-
-## Database
-
-- MySQL
-- MongoDB
-
-## DevOps
-
-- Git
-- GitHub
-- Docker
-- Linux
-- Postman
-
----
-
-# 🔥 Featured Projects
-
-## 📄 RAG Document Question Answering System
-
-Production-ready Retrieval Augmented Generation application.
-
-### Features
-
-✔ PDF Upload
-
-✔ Intelligent Chunking
-
-✔ Vector Embeddings
-
-✔ FAISS Search
-
-✔ LLM Response Generation
-
-✔ Evaluation Metrics
-
-✔ FastAPI Backend
-
-✔ Streamlit UI
-
-Tech Stack
-
-Python • LangChain • FastAPI • FAISS • Groq • Scikit-Learn
-
----
-
-## 🤖 StatBot Pro
-
-AI-powered statistics assistant built with LangChain Agents.
-
-Features
-
-- Natural Language Queries
-- AI Function Calling
-- Structured JSON Output
-- FastAPI Backend
-- Automation Workflows
-
----
-
-## ✨ ViralGen AI
-
-AI Content Generation Platform.
-
-Features
-
-- Marketing Copy
-- Social Media Posts
-- Prompt Engineering
-- Multiple Templates
-- Tone Control
-
----
-
-# 📊 GitHub Stats
+<h1 align="center">Hi 👋, I'm Nirav Rana</h1>
+<h3 align="center">AI Engineer | LLM Developer | Python Backend Developer</h3>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nirav1813&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nirav1813&theme=tokyonight"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI+%26+LLM+Systems;RAG+Pipelines+%7C+AI+Agents+%7C+Backend+APIs" alt="Typing SVG" />
 </p>
-
----
-
-# 💻 Most Used Languages
 
 <p align="center">
+  📍 Ahmedabad, India &nbsp;|&nbsp; 🎯 Open to AI/ML Engineer roles &nbsp;|&nbsp; 🟢 Available Immediately
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirav1813&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+### 💼 Why Work With Me
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nirav1813&theme=github-compact)]
-
----
-
-# 🌱 Currently Exploring
-
-- Multi-Agent AI Systems
-- MCP (Model Context Protocol)
-- Hugging Face Transformers
-- Fine-Tuning LLMs
-- LangGraph
-- CrewAI
-- AI Evaluation Frameworks
-- Production RAG Pipelines
+- 🎯 Focused on building **production-ready** AI systems, not just demos
+- 🧩 Comfortable across the full stack — from LLM pipelines to backend APIs
+- ⚡ Fast learner, currently deepening skills in Deep Learning & AI Agents
+- 🤝 Reliable communicator, easy to collaborate with on remote/hybrid teams
+- 🌱 Actively growing — always shipping new projects to sharpen my craft
 
 ---
 
-# 📫 Connect With Me
+### 🧠 Skills
 
-📧 Email
-
-**rananirav1402@gmail.com**
-
-💼 LinkedIn
-
-https://linkedin.com/in/niravrana
-
-💻 GitHub
-
-https://github.com/nirav1813
+**AI/LLM:** Python, LangChain, LangGraph, OpenAI API, Groq, RAG, FAISS, Pinecone, Hugging Face, CrewAI, MCP  
+**ML:** Scikit-Learn, Pandas, NumPy, TensorFlow (Learning), PyTorch (Learning)  
+**Backend:** FastAPI, Django, Flask, REST APIs, JWT  
+**Database:** MySQL, MongoDB, PostgreSQL  
+**Tools:** Docker, Git, GitHub, Linux, Postman
 
 ---
 
-# 💡 Quote
+### 🚀 Featured Projects
 
-> "Building AI that solves real-world problems, one model at a time."
+**🔹 RAG-Based Document Q&A System**  
+PDF ingestion → chunking → embeddings → FAISS retrieval → grounded answers. FastAPI backend, Streamlit UI.
+
+**🔹 StatBot-Pro**  
+AI statistics assistant using LangChain Agents and function calling for structured analytics.
+
+**🔹 ViralGen AI**  
+AI content generation platform for marketing copy with dynamic tone control, built on FastAPI.
 
 ---
 
-⭐ If you like my projects, consider giving them a Star.
+### 📌 Quick Facts
+
+| | |
+|---|---|
+| 🎓 Role | AI Engineer / ML Engineer / LLM Engineer |
+| 📍 Location | Ahmedabad, Gujarat, India (Open to Remote/Relocation) |
+| 🟢 Availability | Immediate |
+| 🗣️ Languages | English, Hindi, Gujarati |
+| 🎯 Interests | RAG Systems, AI Agents, Backend Architecture |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=niravrana&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=niravrana&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niravrana&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+I'm actively looking for **AI Engineer / ML Engineer / LLM Engineer** opportunities — especially at startups and growing teams. If you're hiring or just want to chat about AI systems, feel free to reach out!
+
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email_Me-333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/niravrana"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Download_Resume-000?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
+</p>
+
+<p align="center"><sub>Thanks for visiting — let's build something great together! ⭐</sub></p>
